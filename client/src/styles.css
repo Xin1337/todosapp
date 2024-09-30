@@ -151,9 +151,6 @@
   }
  }
 
- 
-/* put at the bottom of your styles.css file */
-
 @media (max-width: 420px) {
   .title {
     font-size: 2.5rem;
